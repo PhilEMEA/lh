@@ -1,0 +1,36 @@
+{
+  "gift_certificate": {
+    "value": {
+      "amount": {
+        "currencyMnemonic": "GBP",
+        "value": 30
+      },
+      "balance": {
+        "currencyMnemonic": "GBP",
+        "value": 30
+      },
+      "creationDate": "2023-03-27T14:36:17.544Z",
+      "description": "Gift certificate generated for 2nd threshold",
+      "enabled": true,
+      "maskedGiftCertificateCode": "HDHGNSX7E5KTIP",
+      "merchantId": "my-merchant_id",
+      "message": "Here is a free gift to say thanks for spending with us",
+      "orderNo": "LH789934",
+      "recipientName": "Philip Johnson",
+      "recipientEmail": "philip.johnson+lovehoney@iterable.com",
+      "senderName": "Love Honey",
+      "status": "issued",
+      "transactions": [
+        {
+          "amount": {
+            "currencyMnemonic": "GBP",
+            "value": 80
+          },
+          "orderNo": "OLH789",
+          "timestamp": "2023-03-26T17:16:12.066Z",
+          "typeCode": "create"
+        }
+      ]
+    }
+  }
+}
