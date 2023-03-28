@@ -1,5 +1,4 @@
 {
-  "data":{
   "gift_certificate": {
     "value": {
       "amount": {
@@ -33,6 +32,5 @@
         }
       ]
     }
-  }
   }
 }
